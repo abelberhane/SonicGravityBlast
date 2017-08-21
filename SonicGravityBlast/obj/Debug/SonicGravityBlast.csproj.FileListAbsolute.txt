@@ -1,0 +1,9 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\bin\Debug\SonicGravityBlast.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\bin\Debug\SonicGravityBlast.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\bin\Debug\SonicGravityBlast.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\obj\Debug\SonicGravityBlast.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\obj\Debug\SonicGravityBlast.Form1.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\obj\Debug\SonicGravityBlast.Properties.Resources.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\obj\Debug\SonicGravityBlast.csproj.GenerateResource.Cache
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\obj\Debug\SonicGravityBlast.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\SonicGravityBlast\SonicGravityBlast\obj\Debug\SonicGravityBlast.pdb
